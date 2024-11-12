@@ -1,0 +1,36 @@
+Folders: 365
+Files: 2188
+Size: 116977733 bytes : 111 MiB
+CRC32 checksum for data: 48A4D342-00000431
+CRC32 checksum for data and names: 7F2AFD20-0000050E
+CRC64 checksum for data: 0812644DCD58FF0D-00000453
+CRC64 checksum for data and names: 6D9A022285FDE993-000004EE
+SHA256 checksum for data: 853b082cfc38961c3a7120de5594412d8902c9272b1f7d47a5c47177e0d55e9c-00000476
+SHA256 checksum for data and names: 8e4329537c533f2b1fbd056ab1de31ef777c520d3184e2da059cda93184defaa-000004FA
+SHA1 checksum for data: 3ef7a3abbdcb24055c3de1642a94ce82899f69d7-00000468
+SHA1 checksum for data and names: 4c356057d67903b329cb341d4f6989057776b381-000004F4
+BLAKE2sp checksum for data: c9f0f63144226dceae43ca2d798544789852d1c2d748c14f224a4aa8fc482b78-00000451
+BLAKE2sp checksum for data and names: ed2aea2539aaf86854aa1d1b488ed5e42bb278e1e758a2e92bdc55b5be9ee28c-00000507
+XXH64 checksum for data: EAE7FDA05BFE7C91-0000045D
+XXH64 checksum for data and names: 404F565DD7343DA6-00000511
+
+
+Folders: 365
+Files: 2188
+Size: 116977733 bytes : 111 MiB
+CRC32 checksum for data: 48A4D342-00000431
+CRC32 checksum for data and names: 7F2AFD20-0000050E
+CRC64 checksum for data: 0812644DCD58FF0D-00000453
+CRC64 checksum for data and names: 6D9A022285FDE993-000004EE
+SHA256 checksum for data: 853b082cfc38961c3a7120de5594412d8902c9272b1f7d47a5c47177e0d55e9c-00000476
+SHA256 checksum for data and names: 8e4329537c533f2b1fbd056ab1de31ef777c520d3184e2da059cda93184defaa-000004FA
+SHA1 checksum for data: 3ef7a3abbdcb24055c3de1642a94ce82899f69d7-00000468
+SHA1 checksum for data and names: 4c356057d67903b329cb341d4f6989057776b381-000004F4
+BLAKE2sp checksum for data: c9f0f63144226dceae43ca2d798544789852d1c2d748c14f224a4aa8fc482b78-00000451
+BLAKE2sp checksum for data and names: ed2aea2539aaf86854aa1d1b488ed5e42bb278e1e758a2e92bdc55b5be9ee28c-00000507
+XXH64 checksum for data: EAE7FDA05BFE7C91-0000045D
+XXH64 checksum for data and names: 404F565DD7343DA6-00000511
+
+
+travel glob h ltd backup 2024 11 12 1445 6 31 pm
+RFSD*Tg&(Gp)(00 1015
